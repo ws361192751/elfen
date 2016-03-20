@@ -12,7 +12,7 @@ case `uname -s` in
 	PLATFORM="freebsd"
 	;;
 "Linux")
-	PLATFORM="myubuntu"
+	PLATFORM="ubuntu"
 	;;
 "Darwin")
 	PLATFORM="macos"
